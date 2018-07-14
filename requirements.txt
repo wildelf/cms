@@ -1,0 +1,7 @@
+django
+future
+django-crispy-forms
+django-formtools
+httplib2
+six
+django-import_export
